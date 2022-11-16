@@ -1,0 +1,7 @@
+<head>
+<title>Template 2</title>
+</head>
+<body>
+<header>#message#</header>
+#content2#
+</body>
